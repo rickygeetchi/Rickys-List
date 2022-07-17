@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "name": "Buster Bluth",
+      "photo": "https://pyxis.nymag.com/v1/imgs/2f7/136/8aea62a46feac3fa4decc3b15b40bc43ed-25-buster-bluth-arrested-development-hoo.rsquare.w330.jpg",
+      "mobile": "1112223333",
+      "email": "b-bluth@bluthbs.com",
+      "company": "US Army",
+      "title": "Army Serviceman",
+      "group": "1",
+      "id": "Tt6LH1M"
+    },
+    {
+      "name": "Lebron James",
+      "photo": "https://static01.nyt.com/images/2020/06/10/us/politics/10lebron-voters/10lebron-voters-mediumSquareAt3X.jpg",
+      "mobile": "1234567890",
+      "email": "lj@sfg.com",
+      "company": "Believeland",
+      "title": "LeCoach",
+      "group": "3",
+      "id": "kFzQTyu"
+    },
+    {
+      "name": "Michael Jordan",
+      "photo": "https://guardian.ng/wp-content/uploads/2020/05/Michael-Jordan.-Photo-Vulture-1.jpg",
+      "mobile": "0987654321",
+      "email": "mj@jordan.com",
+      "company": "Jordan Brand",
+      "title": "His Airness",
+      "group": "5",
+      "id": "sKm7ySg"
+    },
+    {
+      "name": "George-Michael Bluth",
+      "photo": "https://c8.alamy.com/zooms/9/b342e5b4940b4979b883ab4b07e21a55/pnkk6x.jpg",
+      "mobile": "5671234567",
+      "email": "gm-bluth@bluthbs.com",
+      "company": "Bluth Banana Stand",
+      "title": "Banana Salesman / Child",
+      "group": "2",
+      "id": "OuCixqb"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
